@@ -1,5 +1,5 @@
 {
   "clientId": "",
-  "realm": "keycloak-web",
+  "realm": "example-keycloak-web",
   "url": ""
 }
